@@ -27,9 +27,10 @@ namespace MyFirstUWPApp
             this.InitializeComponent();
         }
 
+
         private void button_Click(object sender, RoutedEventArgs e)
         {
-            textBox.Text = "Hey there";
+            textBox.Text = "Potato";
         }
     }
 }
